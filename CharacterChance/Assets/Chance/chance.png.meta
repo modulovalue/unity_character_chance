@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 9b2f4b8a0ab83a0458492db2956ba8ee
+timeCreated: 1446124900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chance_0
+    21300002: chance_1
+    21300004: chance_2
+    21300006: chance_3
+    21300008: chance_4
+    21300010: chance_5
+    21300012: chance_6
+    21300014: chance_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chance_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2491
+        width: 1728
+        height: 1530
+      alignment: 9
+      pivot: {x: .480822206, y: .445851207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_1
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3371
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_2
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 3409
+        width: 152
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 909
+        width: 2202
+        height: 1531
+      alignment: 9
+      pivot: {x: .790958405, y: .0598764047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_4
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1368
+        width: 512
+        height: 345
+      alignment: 9
+      pivot: {x: .456850529, y: .483991444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_5
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1399
+        width: 496
+        height: 329
+      alignment: 9
+      pivot: {x: .488864541, y: .533576012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_6
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 941
+        width: 527
+        height: 331
+      alignment: 9
+      pivot: {x: .531441331, y: .366509289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chance_7
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1039
+        width: 590
+        height: 274
+      alignment: 9
+      pivot: {x: .574890316, y: .379055947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
